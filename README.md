@@ -6,4 +6,7 @@ A program that generates a random number
 ### License
 Mozilla Public License : means each individual or legal entity that creates, contributes to
     the creation of, or owns Covered Software
+    
+### Contributing
+Collaborator will edit changes to readme and contributing file
 
