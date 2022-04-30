@@ -8,3 +8,6 @@ Im contributing to this project
     GITHub User: quasont1337
     
     
+Adding something to this file - Veronica C, Wh0a-Br0
+    
+    
